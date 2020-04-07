@@ -21,6 +21,8 @@ figure {
 #featured-property p {
   width: 800px;
   text-align: center;
+  margin-right: auto;
+  margin-left:  auto;
 }
 
 #details {
