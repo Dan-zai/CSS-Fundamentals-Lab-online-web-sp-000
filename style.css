@@ -24,3 +24,7 @@ figure {
 }
 
 #details {
+  display: block;
+}
+
+#details div
