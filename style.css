@@ -5,11 +5,17 @@ body {
 }
 
 header {
-  text-align: center
+  text-align: center;
 }
 
 nav a {
-  padding-left: 10px
-  padding-right: 10px
-  background: grey
+  padding-left: 10px;
+  padding-right: 10px;
+  background: grey;
 }
+
+figure {
+  text-align: center
+}
+
+
