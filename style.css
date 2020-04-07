@@ -27,4 +27,8 @@ figure {
   display: block;
 }
 
-#details div
+#details div {
+  float: left;
+  width: 25%;
+  
+}
